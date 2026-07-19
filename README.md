@@ -93,10 +93,10 @@ I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, a
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🧵 **Order Management System** | Production-grade 23-screen Flutter app built for a real embroidery business (Origin Patches) — order tracking, inventory & full workflow management. | Flutter • Dart • Firebase |
-| 🤖 **Resumify AI** | Flutter app integrated with the **Anthropic Claude API** for AI-powered resume analysis — bridging mobile dev with LLM integration. | Flutter • Claude API • Firebase |
-| 🎓 **Internee LMS** | Full learning management app — 6 courses, video playback, quizzes, certificates, progress tracking. Migrated from local storage to Firebase. | Flutter • Firebase |
-| 🛠️ **Intern Management System** | Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/LinkedIn-based task submission. Deployed on Vercel. | Flutter • Firebase • Vercel |
+| **Order Management System** | Production-grade 23-screen Flutter app built for a real embroidery business (Origin Patches) — order tracking, inventory & full workflow management. | Flutter • Dart • Firebase |
+| **Resumify AI** | Flutter app integrated with the **Anthropic Claude API** for AI-powered resume analysis — bridging mobile dev with LLM integration. | Flutter • Claude API • Firebase |
+| **Internee LMS** | Full learning management app — 6 courses, video playback, quizzes, certificates, progress tracking. Migrated from local storage to Firebase. | Flutter • Firebase |
+| **Intern Management System** | Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/LinkedIn-based task submission. Deployed on Vercel. | Flutter • Firebase • Vercel |
 
 **All Repositories:** https://github.com/HamzaAli2002?tab=repositories
 
