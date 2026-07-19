@@ -1,14 +1,21 @@
-<!-- Banner: replace banner.png with your own (1200x300 recommended). Upload it to this repo and keep the filename same, or update the path below. -->
-![Banner](./banner.png)
+<!-- Blue Neon Banner (auto-generated, no upload needed) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=220&section=header&text=Muhammad%20Hamza%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Agentic%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-# Hi!, I'm Muhammad Hamza Ali
-### Flutter Developer • Mobile App Engineer • Agentic AI Explorer
+<h1 align="center">Hi!, I'm Muhammad Hamza Ali</h1>
+<h3 align="center">Flutter Developer • Mobile App Engineer • Agentic AI Explorer</h3>
 
-Building cross-platform mobile apps with Flutter, and exploring AI integration with the Claude API.
+<p align="center">Building cross-platform mobile apps with Flutter, and exploring AI integration with Python, FastAPI, LangChain &amp; the Claude API.</p>
 
-[![](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Flutter+Developer;Firebase+%2B+Claude+API+Integration;Building+Production-Ready+Mobile+Apps;Always+Learning+Something+New)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Flutter+Developer;Firebase+%2B+Supabase+%2B+Claude+API;Building+Agentic+AI+Apps+with+FastAPI+%26+LangChain;Always+Learning+Something+New" alt="typing-svg" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HamzaAli2002&label=Profile%20Views&color=8b5cf6&style=for-the-badge)](https://github.com/HamzaAli2002)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HamzaAli2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/HamzaAli2002?label=Followers&style=for-the-badge&color=0e75b6" />
+</p>
 
 ---
 
@@ -32,13 +39,14 @@ Current Internships:
   • Flutter Intern @ SolForge
 
 Tech Focus:
-  • Flutter
-  • Dart
-  • Firebase
-  • Claude API (Agentic AI)
+  • Flutter, Dart
+  • Firebase, Supabase
+  • Python, FastAPI
+  • LangChain + Claude API (Agentic AI)
 
 Currently Learning:
   • Agentic AI Development
+  • Backend APIs with FastAPI
   • Clean Architecture for Mobile Apps
 
 Looking For:
@@ -53,16 +61,42 @@ Currently, I'm working as:
 - Mobile Development Intern at **Khizex**
 - Flutter Intern at **SolForge**
 
-I enjoy building clean, scalable mobile apps with Flutter + Firebase, and I'm actively learning to build AI-powered features using the Claude API — combining mobile development with agentic AI.
+I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, and I'm actively learning to build AI-powered features with **Python, FastAPI, LangChain, and the Claude API** — combining mobile development with agentic AI.
 
 ## Tech Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,figma,vscode&perline=8)](https://skillicons.dev)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,fastapi,git,github,androidstudio,vscode&perline=10&theme=dark" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20API-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+## GitHub Stats & Streak
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaAli2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAli2002&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAli2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
+</p>
+
+## Contribution Snake 🐍
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HamzaAli2002/HamzaAli2002/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚠️ The snake animation needs a one-time GitHub Actions setup (below) to start generating — see **Setup Notes** at the bottom.
 
 ## Current Focus
 
-- Building the **Sweetly Found** bakery marketplace app (Flutter UI, Firebase integration next)
-- Exploring Agentic AI development with the Claude API
+- Building the **Sweetly Found** bakery marketplace app (Flutter UI, backend integration next)
+- Exploring Agentic AI development with **Python, FastAPI, LangChain & Claude API**
 - Contributing to real-world internship projects at Khizex & SolForge
 - Preparing for Flutter Developer roles
 
@@ -86,14 +120,17 @@ Full learning management app with 6 courses, video playback, quizzes, certificat
 Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/LinkedIn-based task submission — deployed to Vercel.
 `Tech Stack:` Flutter • Firebase • Vercel
 
-> 💡 Add your repo links under each project once pushed, e.g. `**Repository:** https://github.com/HamzaAli2002/order-management-system`
+**Repository:** https://github.com/HamzaAli2002?tab=repositories
+
+> 💡 I couldn't pull your exact repo names automatically (GitHub's public API was rate-limited when generating this). Open the link above, grab each project's exact repo URL, and paste it under the matching project like:
+> `**Repository:** https://github.com/HamzaAli2002/your-repo-name`
 
 ---
 
 ## Currently Building
 
 - **Sweetly Found** — Bakery marketplace app (customer + baker side), backend integration in progress
-- Deepening skills in **Agentic AI** and Claude API-powered features
+- Deepening skills in **Agentic AI**: Python, FastAPI, LangChain & Claude API-powered features
 - Preparing for **Flutter Developer** opportunities
 
 ---
@@ -106,9 +143,11 @@ Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/Li
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzashameem20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamzaAli2002)
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-hamza-ali-3131a825b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hamzashameem20@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/HamzaAli2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -117,3 +156,50 @@ Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/Li
 *Building practical, real-world mobile apps — one Flutter screen at a time.*
 
 Feel free to explore my repositories and connect with me.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=100&section=footer" width="100%"/>
+</p>
+
+---
+
+<details>
+<summary><b>⚙️ Setup Notes (snake animation)</b></summary>
+
+The snake animation isn't automatic — it needs a small one-time setup in this repo:
+
+1. Go to your `HamzaAli2002/HamzaAli2002` repo → **Actions** tab → **New workflow** → **set up a workflow yourself**
+2. Name the file `snake.yml` and paste this:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: HamzaAli2002
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit the workflow — it'll run automatically and generate the snake SVG on an `output` branch, which is exactly what the image link above points to.
+</details>
