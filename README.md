@@ -85,14 +85,6 @@ I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAli2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
 </p>
 
-## Contribution Snake 🐍
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HamzaAli2002/HamzaAli2002/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> ⚠️ The snake animation needs a one-time GitHub Actions setup (below) to start generating — see **Setup Notes** at the bottom.
-
 ## Current Focus
 
 - Building the **Sweetly Found** bakery marketplace app (Flutter UI, backend integration next)
@@ -104,26 +96,28 @@ I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, a
 
 ## Featured Projects
 
-**🧵 Order Management System**
-Production-grade 23-screen Flutter app built for a real embroidery business (Origin Patches) — covering order tracking, inventory, and full workflow management.
-`Tech Stack:` Flutter • Dart • Firebase
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🧵 **Order Management System** | Production-grade 23-screen Flutter app built for a real embroidery business (Origin Patches) — order tracking, inventory & full workflow management. | Flutter • Dart • Firebase |
+| 🤖 **Resumify AI** | Flutter app integrated with the **Anthropic Claude API** for AI-powered resume analysis — bridging mobile dev with LLM integration. | Flutter • Claude API • Firebase |
+| 🎓 **Internee LMS** | Full learning management app — 6 courses, video playback, quizzes, certificates, progress tracking. Migrated from local storage to Firebase. | Flutter • Firebase |
+| 🛠️ **Intern Management System** | Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/LinkedIn-based task submission. Deployed on Vercel. | Flutter • Firebase • Vercel |
 
-**🤖 Resumify AI**
-Flutter app integrated with the **Anthropic Claude API** for AI-powered resume analysis — bridging mobile development with LLM integration.
-`Tech Stack:` Flutter • Claude API • Firebase
+**All Repositories:** https://github.com/HamzaAli2002?tab=repositories
 
-**🎓 Internee LMS**
-Full learning management app with 6 courses, video playback, quizzes, certificates, and progress tracking — migrated from local storage to Firebase.
-`Tech Stack:` Flutter • Firebase
+> 💡 I couldn't pull your exact repo names automatically (GitHub's public API was rate-limited when generating this). Open the link above, grab each project's exact repo URL, and turn its name into a link, e.g. `[Order Management System](https://github.com/HamzaAli2002/your-repo-name)`
 
-**🛠️ Intern Management System**
-Role-based admin/intern Flutter app with Firebase Auth, Firestore, and GitHub/LinkedIn-based task submission — deployed to Vercel.
-`Tech Stack:` Flutter • Firebase • Vercel
+---
 
-**Repository:** https://github.com/HamzaAli2002?tab=repositories
+## Career Highlights
 
-> 💡 I couldn't pull your exact repo names automatically (GitHub's public API was rate-limited when generating this). Open the link above, grab each project's exact repo URL, and paste it under the matching project like:
-> `**Repository:** https://github.com/HamzaAli2002/your-repo-name`
+| | |
+|---|---|
+| **Mobile Development Intern**<br>**Khizex**<br>Currently building production-ready mobile applications using Flutter. | **Flutter Intern**<br>**SolForge**<br>Building Flutter UI for the Sweetly Found bakery marketplace app, with backend integration planned next. |
+| **Internee.pk Internship**<br>Built multiple production-grade Flutter + Firebase apps including an Intern Management System, LMS, Task Manager & Feedback Hub. | **Deloitte Australia — Technology Job Simulation**<br>Completed on Forage — Python data normalization functions and a formal software development proposal. |
+| **Agentic AI / Claude API Course**<br>Currently building skills in agentic AI development, incrementally applying it to real projects. | *Add more here as you complete certifications, hackathons, or courses* |
+
+> 💡 If you have certificates/offer letters (PDFs), upload them to a `certifications/` folder in this repo and link each one, e.g. `[View Offer Letter ↗](./certifications/Khizex_Offer_Letter.pdf)`
 
 ---
 
@@ -160,46 +154,3 @@ Feel free to explore my repositories and connect with me.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=100&section=footer" width="100%"/>
 </p>
-
----
-
-<details>
-<summary><b>⚙️ Setup Notes (snake animation)</b></summary>
-
-The snake animation isn't automatic — it needs a small one-time setup in this repo:
-
-1. Go to your `HamzaAli2002/HamzaAli2002` repo → **Actions** tab → **New workflow** → **set up a workflow yourself**
-2. Name the file `snake.yml` and paste this:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ "main" ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: HamzaAli2002
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit the workflow — it'll run automatically and generate the snake SVG on an `output` branch, which is exactly what the image link above points to.
-</details>
