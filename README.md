@@ -105,7 +105,6 @@ I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, a
 
 **All Repositories:** https://github.com/HamzaAli2002?tab=repositories
 
-> 💡 I couldn't pull your exact repo names automatically (GitHub's public API was rate-limited when generating this). Open the link above, grab each project's exact repo URL, and turn its name into a link, e.g. `[Order Management System](https://github.com/HamzaAli2002/your-repo-name)`
 
 ---
 
@@ -117,7 +116,6 @@ I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, a
 | **Internee.pk Internship**<br>Built multiple production-grade Flutter + Firebase apps including an Intern Management System, LMS, Task Manager & Feedback Hub. | **Deloitte Australia — Technology Job Simulation**<br>Completed on Forage — Python data normalization functions and a formal software development proposal. |
 | **Agentic AI / Claude API Course**<br>Currently building skills in agentic AI development, incrementally applying it to real projects. | *Add more here as you complete certifications, hackathons, or courses* |
 
-> 💡 If you have certificates/offer letters (PDFs), upload them to a `certifications/` folder in this repo and link each one, e.g. `[View Offer Letter ↗](./certifications/Khizex_Offer_Letter.pdf)`
 
 ---
 
