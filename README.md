@@ -76,14 +76,9 @@ I enjoy building clean, scalable mobile apps with Flutter + Firebase/Supabase, a
 
 ## GitHub Stats & Streak
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaAli2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=0ea5e9&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAli2002&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=22d3ee&currStreakLabel=22d3ee" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAli2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
-</p>
 
 ## Current Focus
 
